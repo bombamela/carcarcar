@@ -1,0 +1,6 @@
+model_checkpoint_path: "obs-model-500.ckpt"
+all_model_checkpoint_paths: "obs-model-100.ckpt"
+all_model_checkpoint_paths: "obs-model-200.ckpt"
+all_model_checkpoint_paths: "obs-model-300.ckpt"
+all_model_checkpoint_paths: "obs-model-400.ckpt"
+all_model_checkpoint_paths: "obs-model-500.ckpt"
